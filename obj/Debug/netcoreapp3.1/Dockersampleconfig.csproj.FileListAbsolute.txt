@@ -1,0 +1,3 @@
+G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.csprojAssemblyReference.cache
+G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.AssemblyInfoInputs.cache
+G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.AssemblyInfo.cs
