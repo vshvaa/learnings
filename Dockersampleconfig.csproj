@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Deployment-Dockersampleconfig.yaml">
+    <None Update="DockerSampleConfig.yaml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

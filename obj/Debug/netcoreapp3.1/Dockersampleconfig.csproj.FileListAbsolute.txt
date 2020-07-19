@@ -1,4 +1,3 @@
-G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.csprojAssemblyReference.cache
 G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.AssemblyInfoInputs.cache
 G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.AssemblyInfo.cs
 G:\CTS Data\Stage IV\Dockersampleconfig\bin\Debug\netcoreapp3.1\appsettings.Development.json
@@ -18,4 +17,4 @@ G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\staticwebassets\
 G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.dll
 G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.pdb
 G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.genruntimeconfig.cache
-G:\CTS Data\Stage IV\Dockersampleconfig\bin\Debug\netcoreapp3.1\Deployment-Dockersampleconfig.yaml
+G:\CTS Data\Stage IV\Dockersampleconfig\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml
