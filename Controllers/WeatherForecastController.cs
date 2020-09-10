@@ -13,8 +13,9 @@ namespace Dockersampleconfig.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "old","Chilly", "new","Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Bracing", "old","Welcome ","Chilly", "new","Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
+        
 
         private readonly ILogger<WeatherForecastController> _logger;
 
@@ -34,6 +35,14 @@ namespace Dockersampleconfig.Controllers
                 Summary = Summaries[rng.Next(Summaries.Length)]
             })
             .ToArray();
+        }
+
+        [HttpGet]
+        [Route("GetAllDetails")]
+        public string GetAllDetails()
+        {
+            return "welcome to my API";
+           
         }
     }
 }
