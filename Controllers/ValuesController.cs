@@ -19,6 +19,7 @@ namespace Dockersampleconfig.Controllers
             List<string> l = new List<string>();
             l.Add("value1");
             l.Add("value2");
+            l.Add("value3");
             return l;
         }
     }
