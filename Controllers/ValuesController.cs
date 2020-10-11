@@ -20,6 +20,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("value1");
             l.Add("value2");
             l.Add("value3");
+            l.Add("Value4");
             return l;
         }
     }
