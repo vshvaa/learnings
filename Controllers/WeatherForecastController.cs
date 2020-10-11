@@ -13,7 +13,7 @@ namespace Dockersampleconfig.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "old","Welcome ","Chilly", "new","Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Bracing", "old","Welcome ","Chilly", "new","Cool", "Mild", "Warm","screamy", "Balmy", "Hot", "Sweltering", "Scorching"
         };
         
 
