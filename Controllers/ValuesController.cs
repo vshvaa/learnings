@@ -28,6 +28,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("Value9");
             l.Add("Value 10");
             l.Add("Value 11");
+            l.Add("FIS Data Modified");
             return l;
         }
     }
