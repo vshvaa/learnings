@@ -31,6 +31,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("Value 12");
             l.Add("FIS Data Modified");
             l.Add("CTS ID12 Data Modified");
+            l.Add("FIS Data Newly Modified");
             return l;
         }
     }
