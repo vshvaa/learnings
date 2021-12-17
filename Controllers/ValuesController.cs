@@ -32,6 +32,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("FIS Data Modified");
             l.Add("CTS ID12 Data Modified");
             l.Add("FIS Data Newly Modified");
+            l.Add("Schneider Data Added");
             l.Add("RBC data added");
             return l;
         }
