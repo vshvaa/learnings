@@ -29,7 +29,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("Value 10");
             l.Add("Value 11");
             l.Add("Value 12");
-            l.Add("CTS Trial 14566);
+            l.Add("CTS Trial 14566");
             l.Add("FIS Data Modified");
             l.Add("CTS ID12 Data Modified");
             l.Add("FIS Data Newly Modified");
