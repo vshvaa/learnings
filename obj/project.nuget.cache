@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sVsss5rF371wRuC+TrsTcfmTcXMKwpo7a5yGrUEufxJ58wNqG0kDeuhNwq0Nl+iospNXc9XCihzlRGWSKMDGEA==",
+  "dgSpecHash": "GSutPYy41YS1PylwyeaLIKjG7LqTJG+OfuTDBoDDmGIhFieQQjFw3RZacuvLLA2YzifWgXlbtJ+22DJvXSYjBg==",
   "success": true,
-  "projectFilePath": "G:\\CTS Data\\Stage IV\\Dockersampleconfig\\Dockersampleconfig.csproj",
+  "projectFilePath": "F:\\Kanini\\Azure Training\\LearningProject\\Dockersampleconfig.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shrivalli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
   ],

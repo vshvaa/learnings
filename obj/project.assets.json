@@ -89,11 +89,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\CTS Data\\Stage IV\\Dockersampleconfig\\Dockersampleconfig.csproj",
+      "projectUniqueName": "F:\\Kanini\\Azure Training\\LearningProject\\Dockersampleconfig.csproj",
       "projectName": "Dockersampleconfig",
-      "projectPath": "G:\\CTS Data\\Stage IV\\Dockersampleconfig\\Dockersampleconfig.csproj",
+      "projectPath": "F:\\Kanini\\Azure Training\\LearningProject\\Dockersampleconfig.csproj",
       "packagesPath": "C:\\Users\\Shrivalli\\.nuget\\packages\\",
-      "outputPath": "G:\\CTS Data\\Stage IV\\Dockersampleconfig\\obj\\",
+      "outputPath": "F:\\Kanini\\Azure Training\\LearningProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -111,6 +111,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -122,6 +123,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
             "target": "Package",
@@ -146,7 +148,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
