@@ -19,3 +19,36 @@ G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconf
 G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.genruntimeconfig.cache
 G:\CTS Data\Stage IV\Dockersampleconfig\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml
 G:\CTS Data\Stage IV\Dockersampleconfig\obj\Debug\netcoreapp3.1\Dockersampleconfig.csprojAssemblyReference.cache
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\Dockersampleconfig.StaticWebAssets.xml
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\Dockersampleconfig.exe
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\Dockersampleconfig.deps.json
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\Dockersampleconfig.runtimeconfig.json
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\Dockersampleconfig.runtimeconfig.dev.json
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\Dockersampleconfig.dll
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\Dockersampleconfig.pdb
+F:\Kanini\Azure Training\LearningProject\obj\Debug\netcoreapp3.1\Dockersampleconfig.csproj.AssemblyReference.cache
+F:\Kanini\Azure Training\LearningProject\obj\Debug\netcoreapp3.1\Dockersampleconfig.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kanini\Azure Training\LearningProject\obj\Debug\netcoreapp3.1\Dockersampleconfig.AssemblyInfoInputs.cache
+F:\Kanini\Azure Training\LearningProject\obj\Debug\netcoreapp3.1\Dockersampleconfig.AssemblyInfo.cs
+F:\Kanini\Azure Training\LearningProject\obj\Debug\netcoreapp3.1\Dockersampleconfig.csproj.CoreCompileInputs.cache
+F:\Kanini\Azure Training\LearningProject\obj\Debug\netcoreapp3.1\Dockersampleconfig.MvcApplicationPartsAssemblyInfo.cache
+F:\Kanini\Azure Training\LearningProject\obj\Debug\netcoreapp3.1\staticwebassets\Dockersampleconfig.StaticWebAssets.Manifest.cache
+F:\Kanini\Azure Training\LearningProject\obj\Debug\netcoreapp3.1\Dockersampleconfig.RazorTargetAssemblyInfo.cache
+F:\Kanini\Azure Training\LearningProject\obj\Debug\netcoreapp3.1\Dockersampleconfig.dll
+F:\Kanini\Azure Training\LearningProject\obj\Debug\netcoreapp3.1\Dockersampleconfig.pdb
+F:\Kanini\Azure Training\LearningProject\obj\Debug\netcoreapp3.1\Dockersampleconfig.genruntimeconfig.cache
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\site\web.config
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\awsdepmanifest.json
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\site\appsettings.Development.json
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\site\appsettings.json
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\site\Dockersampleconfig.deps.json
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\site\Dockersampleconfig.runtimeconfig.json
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\site\site\web.config
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\site\awsdepmanifest.json
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\site\site\appsettings.Development.json
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\site\site\appsettings.json
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\site\site\Dockersampleconfig.deps.json
+F:\Kanini\Azure Training\LearningProject\bin\Debug\netcoreapp3.1\site\site\Dockersampleconfig.runtimeconfig.json

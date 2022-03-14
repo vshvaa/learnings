@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GSutPYy41YS1PylwyeaLIKjG7LqTJG+OfuTDBoDDmGIhFieQQjFw3RZacuvLLA2YzifWgXlbtJ+22DJvXSYjBg==",
+  "dgSpecHash": "VAqP6SlFkgT+QlZaPjqyyM/7T+R2rGGyFOEG9OXZzAHK9N5r7dDPYyneO1unVqNraxNrb4m7xzOFgbHhuz39Nw==",
   "success": true,
   "projectFilePath": "F:\\Kanini\\Azure Training\\LearningProject\\Dockersampleconfig.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Shrivalli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+    "C:\\Users\\Shrivalli\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\Shrivalli\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
   "logs": []
 }

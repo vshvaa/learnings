@@ -1,0 +1,15 @@
+F:\Kanini\Azure Training\LearningProject\site\DockerSampleConfig.yaml
+F:\Kanini\Azure Training\LearningProject\site\Dockersampleconfig.exe
+F:\Kanini\Azure Training\LearningProject\site\wwwroot\first.html
+F:\Kanini\Azure Training\LearningProject\site\site\web.config
+F:\Kanini\Azure Training\LearningProject\site\appsettings.Development.json
+F:\Kanini\Azure Training\LearningProject\site\appsettings.json
+F:\Kanini\Azure Training\LearningProject\site\awsdepmanifest.json
+F:\Kanini\Azure Training\LearningProject\site\site\appsettings.Development.json
+F:\Kanini\Azure Training\LearningProject\site\site\appsettings.json
+F:\Kanini\Azure Training\LearningProject\site\site\Dockersampleconfig.deps.json
+F:\Kanini\Azure Training\LearningProject\site\site\Dockersampleconfig.runtimeconfig.json
+F:\Kanini\Azure Training\LearningProject\site\Dockersampleconfig.dll
+F:\Kanini\Azure Training\LearningProject\site\Dockersampleconfig.deps.json
+F:\Kanini\Azure Training\LearningProject\site\Dockersampleconfig.runtimeconfig.json
+F:\Kanini\Azure Training\LearningProject\site\Dockersampleconfig.pdb
