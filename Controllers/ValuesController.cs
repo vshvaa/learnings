@@ -41,6 +41,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("Kanini second Data Added");
             l.Add("Docker Image Added");
             l.Add("Tech M Added");
+            l.Add("CTS CDE14 Added");
             return l;
         }
     }
