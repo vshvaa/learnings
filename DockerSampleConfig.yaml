@@ -14,11 +14,11 @@ spec:
     spec:
       containers:
       - name: dockersamplerepos
-        image: samplectr.azurecr.io/dockersamplerepos:latest
+        image: cde14cr.azurecr.io/dockersamplerepos:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
-      - name: dsconfigsn1
+      - name: dsconfigsn
 
 ---
 apiVersion: v1
