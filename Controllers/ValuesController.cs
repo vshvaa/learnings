@@ -45,6 +45,7 @@ namespace Dockersampleconfig.Controllers
             l.Add("Kanini Batch I Data Added");
             l.Add("second modfication");
             l.Add("Final Modification");
+            l.Add("CTS CDX0102 Data Added");
             return l;
         }
     }
