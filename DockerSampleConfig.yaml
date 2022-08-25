@@ -13,8 +13,8 @@ spec:
         app: Dockersampleconfig
     spec:
       containers:
-      - name: dockersamplerepos
-        image: samplecr2.azurecr.io/learningrepos:latest
+      - name: cdxdockerrepos
+        image: cdxsamplecr.azurecr.io/cdxdockerrepos:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
